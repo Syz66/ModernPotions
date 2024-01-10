@@ -1,10 +1,13 @@
-## Mod Template
-A simple mod template for Weave.
+## Glintless Potions
+Removes glint from potions.
 
 ---
 
+### Image
+![glintlesspotions.png](image.png)
+
 ### Installation
-1. Download [Mod Template](https://github.com/Syz66/ModTemplate/releases/latest) mod.
+1. Download [Glintless Potions](https://github.com/Syz66/GlintlessPotions/releases/latest) mod.
 2. Place the jar in your Weave mods folder.
 3. Download [lunar-client-qt](https://github.com/Youded-byte/lunar-client-qt/releases/latest).
 
