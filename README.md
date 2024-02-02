@@ -1,5 +1,5 @@
 ## Glintless Potions
-Removes glint from potions.
+Backports the "glintless" look of potions in later versions (1.19+).
 
 ---
 

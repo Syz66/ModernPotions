@@ -2,7 +2,7 @@
   "name": "Glintless Potions",
   "modId": "Glintless",
   "author": "Syz66",
-  "version": "1.0",
+  "version": "2.0",
   "link": "https://github.com/Syz66/GlintlessPotions",
   "mixinConfigs": [
     "glintless.mixins.json"

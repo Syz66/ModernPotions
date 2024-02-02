@@ -3,6 +3,7 @@
   "compatibilityLevel": "JAVA_8",
   "package": "me.zircta.glintless",
   "mixins": [
-    "ItemStackMixin"
+    "ItemStackMixin",
+    "PotionMixin"
   ]
 }
