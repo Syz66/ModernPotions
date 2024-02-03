@@ -1,4 +1,4 @@
-package me.zircta.glintless;
+package me.zircta.modernpotions;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemPotion;

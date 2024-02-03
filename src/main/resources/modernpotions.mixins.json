@@ -1,7 +1,7 @@
 {
   "required": true,
   "compatibilityLevel": "JAVA_8",
-  "package": "me.zircta.glintless",
+  "package": "me.zircta.modernpotions",
   "mixins": [
     "ItemStackMixin",
     "PotionMixin"
