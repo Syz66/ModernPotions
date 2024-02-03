@@ -1,10 +1,10 @@
 {
-  "name": "Glintless Potions",
-  "modId": "Glintless",
-  "author": "Syz66",
-  "version": "2.0",
-  "link": "https://github.com/Syz66/GlintlessPotions",
+  "name": "Modern Potions",
+  "modId": "ModernPotions",
+  "author": "Syz66 & Nyaaaaaaaaaaaaaaa",
+  "version": "1.0",
+  "link": "https://github.com/Syz66/ModernPotions",
   "mixinConfigs": [
-    "glintless.mixins.json"
+    "modernpotions.mixins.json"
   ]
 }

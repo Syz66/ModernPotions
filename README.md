@@ -1,13 +1,13 @@
-## Glintless Potions
-Backports the "glintless" look of potions in later versions (1.19+).
+## Modern Potions
+Backports the new look of potions from 1.19.4 Pre-release 3.
 
 ---
 
 ### Image
-![glintlesspotions.png](image.png)
+![image](image.png)
 
 ### Installation
-1. Download [Glintless Potions](https://github.com/Syz66/GlintlessPotions/releases/latest) mod.
+1. Download [Modern Potions](https://github.com/Syz66/ModernPotions/releases/latest) mod.
 2. Place the jar in your Weave mods folder.
 3. Download [lunar-client-qt](https://github.com/Youded-byte/lunar-client-qt/releases/latest).
 
